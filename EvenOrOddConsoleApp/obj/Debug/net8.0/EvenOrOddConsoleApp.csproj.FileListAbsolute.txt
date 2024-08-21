@@ -1,0 +1,42 @@
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\EvenOrOddConsoleApp.exe
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\EvenOrOddConsoleApp.deps.json
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\EvenOrOddConsoleApp.runtimeconfig.json
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\EvenOrOddConsoleApp.dll
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\EvenOrOddConsoleApp.pdb
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\EvenOrOddConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\EvenOrOddConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\EvenOrOddConsoleApp.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\EvenOrOddConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\EvenOrOddConsoleApp.dll
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\EvenOrOddConsoleApp.dll
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\EvenOrOddConsoleApp.pdb
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\EvenOrOddConsoleApp.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\EvenOrOddConsoleApp.dll
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.exe
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.deps.json
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.runtimeconfig.json
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.dll
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.pdb
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.AssemblyInfo.cs
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.dll
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\refint\EvenOrOddConsoleApp.dll
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.pdb
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.genruntimeconfig.cache
+C:\Users\Dell\Desktop\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\ref\EvenOrOddConsoleApp.dll
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.dll
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\refint\EvenOrOddConsoleApp.dll
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.pdb
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.exe
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.deps.json
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.runtimeconfig.json
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.dll
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\bin\Debug\net8.0\EvenOrOddConsoleApp.pdb
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\EvenOrOddConsoleApp.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Trabalho\Base de Conhecimento\Desenvolvimento\C#\Par ou Impar Even Or Odd\Exemplos\EvenOrOddConsoleApp\EvenOrOddConsoleApp\EvenOrOddConsoleApp\obj\Debug\net8.0\ref\EvenOrOddConsoleApp.dll
